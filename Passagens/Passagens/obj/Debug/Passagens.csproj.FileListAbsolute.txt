@@ -1,0 +1,7 @@
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Passagens\bin\Debug\Passagens.dll.config
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Passagens\bin\Debug\Passagens.dll
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Passagens\bin\Debug\Passagens.pdb
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Passagens\obj\Debug\Passagens.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Passagens\obj\Debug\Passagens.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Passagens\obj\Debug\Passagens.dll
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Passagens\obj\Debug\Passagens.pdb
