@@ -1,0 +1,11 @@
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\ConsumindoServico\bin\Debug\ConsumindoServico.exe.config
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\ConsumindoServico\bin\Debug\ConsumindoServico.exe
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\ConsumindoServico\bin\Debug\ConsumindoServico.pdb
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.Form1.resources
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.Properties.Resources.resources
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.csproj.GenerateResource.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.exe
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.pdb

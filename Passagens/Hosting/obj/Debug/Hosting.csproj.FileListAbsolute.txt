@@ -1,0 +1,12 @@
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Hosting\bin\Debug\Hosting.exe.config
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Hosting\bin\Debug\Hosting.exe
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Hosting\bin\Debug\Hosting.pdb
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Hosting\bin\Debug\Passagens.dll
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Hosting\bin\Debug\Passagens.pdb
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Hosting\bin\Debug\Passagens.dll.config
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Hosting\obj\Debug\Hosting.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Hosting\obj\Debug\Hosting.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Hosting\obj\Debug\Hosting.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Hosting\obj\Debug\Hosting.csproj.CopyComplete
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Hosting\obj\Debug\Hosting.exe
+C:\Users\marco\OneDrive\Documentos\GitHub\WCF_alura\Passagens\Hosting\obj\Debug\Hosting.pdb

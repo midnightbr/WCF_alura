@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Passagens
 {
     [ServiceContract] // Obrigatorio, para informar que se trata de um contrato
-    internal interface IClienteService
+    public interface IClienteService
     {
         [OperationContract] // -> Obrigatorio para informar que é uma operação do contrato
         Cliente Buscar(string nome);
